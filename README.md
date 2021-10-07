@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @quoteOnly
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me is by email
+- 💞️ I’m looking to collaborate on projects
+- 📫 Please reach me is by email
 
 <!---
 quoteOnly/quoteOnly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
